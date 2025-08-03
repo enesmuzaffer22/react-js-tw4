@@ -13,7 +13,7 @@ You can quickly clone this template using [degit](https://github.com/Rich-Harris
 npm install -g degit
 
 # Clone this template
-degit your-username/react-tailwind4-boilerplate my-new-project
+degit enesmuzaffer22/react-js-tw4 my-new-project
 
 # Navigate to your project
 cd my-new-project
@@ -34,7 +34,7 @@ Bu şablonu [degit](https://github.com/Rich-Harris/degit) kullanarak hızlıca k
 npm install -g degit
 
 # Bu şablonu klonlayın
-degit your-username/react-tailwind4-boilerplate yeni-projem
+degit enesmuzaffer22/react-js-tw4 yeni-projem
 
 # Proje klasörüne gidin
 cd yeni-projem
