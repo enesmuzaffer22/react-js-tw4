@@ -52,6 +52,7 @@ npm run dev
 - ⚛️ **React 18** - Latest React version
 - 🎨 **Tailwind CSS 4** - Latest Tailwind version
 - 📝 **ESLint** - Code linting
+- 🗂 **React Router DOM** - Routes
 - 🔥 **Hot Module Replacement** - Fast refresh during development
 
 ## 🛠️ Development
